@@ -41,6 +41,10 @@
   color: #888;
 }
 
-body {
+body h1,h2{
   font-family: "Ojuju", sans-serif;
+}
+
+body h3, h4, h5, h6, p {
+ font-family: "Poppins", sans-serif;
 }
